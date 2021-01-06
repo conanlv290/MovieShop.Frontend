@@ -58,19 +58,23 @@ $ ng serve --open
 ```
 ## Screenshots
 <p align="center">
-  <img align="center" height=350 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/mainPage.PNG">
+  <img align="center" height=500 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/mainPage.PNG">
+  <br>
   Main page
 </p>
 <p align="center">
-  <img align="center" height=350 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/mainPage_genre.PNG">
+  <img align="center" height=500 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/mainPage_genre.PNG">
+  <br>
   Main page with genre dropdown
 </p>
 <p align="center">
-  <img align="center" height=350 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/movieDetials.PNG">
+  <img align="center" height=500 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/movieDetials.PNG">
+  <br>
   Movie detials page
 </p>
 <p align="center">
-  <img align="center" height=350 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/movieLoginPage.PNG">
+  <img align="center" height=500 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/movieLoginPage.PNG">
+  <br>
   Login page
 </p>
 
