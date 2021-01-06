@@ -8,7 +8,7 @@
 
 
 <p align="center"> 
-this is the <b>front end</b> part of the whole project, you could find backend <a href="https://github.com/conanlv290/MovieShop.git">here</a>
+this is the <b>front end</b> part of the whole project, you could find backend <a href="https://github.com/conanlv290/MovieShop.Backend.git">here</a>
 </p>
 <br>
 <p align="center">
