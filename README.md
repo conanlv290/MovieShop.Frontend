@@ -58,24 +58,26 @@ $ ng serve --open
 ```
 ## Screenshots
 <p align="center">
-  <img align="center" height=800 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/mainPage.PNG">
+  <img align="center" height=650 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/mainPage.PNG">
   <br>
-  Main page
+  <b>Main page
+  <br>
 </p>
 <p align="center">
-  <img align="center" height=800 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/mainPage_genre.PNG">
+  <img align="center" height=650 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/mainPage_genre.PNG">
   <br>
-  Main page with genre dropdown
+  <b>Main page with genre dropdown
+  <br>
 </p>
 <p align="center">
-  <img align="center" height=800 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/movieDetials.PNG">
+  <img align="center" height=650 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/movieDetials.PNG">
   <br>
-  Movie detials page
+  <b>Movie detials page
+  <br>
 </p>
 <p align="center">
   <img align="center" height=350 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/movieLoginPage.PNG">
-  <br>
-  Login page
+  <b>Login page
 </p>
 
 
