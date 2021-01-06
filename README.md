@@ -58,13 +58,20 @@ $ ng serve --open
 ```
 ## Screenshots
 <p align="center">
-Main page
+  <img align="center" height=350 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/mainPage.PNG">
+  Main page
 </p>
 <p align="center">
-Main page with genre dropdown
+  <img align="center" height=350 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/mainPage_genre.PNG">
+  Main page with genre dropdown
 </p>
 <p align="center">
-Movie detials page
+  <img align="center" height=350 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/movieDetials.PNG">
+  Movie detials page
+</p>
+<p align="center">
+  <img align="center" height=350 src="https://github.com/conanlv290/MovieShop.Frontend/blob/master/src/assets/images/movieLoginPage.PNG">
+  Login page
 </p>
 
 
