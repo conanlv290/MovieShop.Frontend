@@ -1,0 +1,39 @@
+.grid-container {
+  background-color: black;
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+}
+.grid-container2 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+#movieBody {
+    padding:  0 2em 0 5em;
+}
+#moviePoster{
+    padding: 0 0 0 10em;
+}
+h1 {
+    color:white;
+    font-size: xxx-large;
+}
+h6 {
+    color:lightgray;
+    font-size: small;
+}
+#bt {
+    width: 200px;
+    height: 200px;
+    padding: 2%;
+    display: table-cell;
+    text-align: center;
+    vertical-align: bottom;
+}
+p {
+    color:white;
+  font-family: Verdana;
+  font-size: medium;
+}
+#container2_left{
+    text-align: center;
+}

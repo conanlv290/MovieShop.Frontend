@@ -1,0 +1,14 @@
+<div class="card shadow bg-light" style="text-align: center">
+  <a [routerLink]="['/movies', movie.id]">
+    <img
+      src="{{ movie.posterUrl }}"
+      class="img-fluid"
+      alt="{{ movie.title }}"
+    />
+  </a>
+</div>
+<div style="text-align: center; padding-bottom: 2em">
+    <p style="size: medium; font: bold;">
+        {{ movie.title }}
+    </p>
+</div>
